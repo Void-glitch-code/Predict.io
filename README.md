@@ -241,3 +241,6 @@ Computer Science Student · Machine Learning & AI
 ## License
 
 MIT License
+Note:
+.pkl is not there in the repo since its a large file and could not be uploaded you can access the file by running the .ipynb file completely
+thanks
